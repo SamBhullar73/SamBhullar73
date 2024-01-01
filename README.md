@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SamBhullar73
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
+- 👋 Hi, I’m Simranjit Singh
+- 👀 I’m interested in Project Management and Start ups
+- 🌱 I’m currently practising Machine Learning 
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects 
 - 📫 Reach me at sambhullar73@gmail.com
 
 <!---
